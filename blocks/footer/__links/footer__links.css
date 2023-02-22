@@ -13,4 +13,8 @@
     text-align: left;
     margin: 0 0 16px;
   }
+
+  .footer__links li {
+    margin: 0 0 32px;
+  }
 }
